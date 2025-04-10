@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB964242-F0DF-4CB7-A9FA-F0058FB95CF2}|ListStream\\ListStream.csproj|c:\\users\\aysun\\onedrive\\desktop\\liststream\\liststream\\liststream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB964242-F0DF-4CB7-A9FA-F0058FB95CF2}|ListStream\\ListStream.csproj|solutionrelative:liststream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB964242-F0DF-4CB7-A9FA-F0058FB95CF2}|ListStream\\ListStream.csproj|c:\\users\\aysun\\onedrive\\desktop\\liststream\\liststream\\liststream\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB964242-F0DF-4CB7-A9FA-F0058FB95CF2}|ListStream\\ListStream.csproj|solutionrelative:liststream\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\ListStream\\List.cs",
+              "RelativeDocumentMoniker": "ListStream\\List.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\ListStream\\List.cs*",
+              "RelativeToolTip": "ListStream\\List.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:17:58.215Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\ListStream\\Program.cs",
+              "RelativeDocumentMoniker": "ListStream\\Program.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\ListStream\\Program.cs*",
+              "RelativeToolTip": "ListStream\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:26:03.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

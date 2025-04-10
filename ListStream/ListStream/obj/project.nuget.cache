@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FuPSHaCouo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aysun\\OneDrive\\Desktop\\ListStream\\ListStream\\ListStream\\ListStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aysun\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

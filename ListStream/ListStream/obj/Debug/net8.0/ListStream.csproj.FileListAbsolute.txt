@@ -1,0 +1,6 @@
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.csproj.AssemblyReference.cache
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.AssemblyInfoInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.AssemblyInfo.cs
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\ListStream\ListStream\ListStream\obj\Debug\net8.0\ListStream.sourcelink.json
